@@ -1,0 +1,16 @@
+{
+  "name": "automated-outreach-pipeline",
+  "version": "3.0.0",
+  "description": "Automated cold-outreach: Apollo.io → Prospeo → Brevo",
+  "main": "pipeline.js",
+  "scripts": {
+    "start": "node pipeline.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
